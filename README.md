@@ -1,2 +1,2 @@
 # gitrepup
-A script which updates all of your local github repositories
+- A simple python utility script to update all github repositories in a location giving the user a good UI using the python rich module
