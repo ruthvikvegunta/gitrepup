@@ -1,6 +1,9 @@
 # gitrepup
 - A simple python utility script to update all github repositories in a location giving the user a good UI using the python rich module
 
+[![Downloads](https://pepy.tech/badge/gitrepup)](https://pepy.tech/project/gitrepup)
+[![Downloads](https://pepy.tech/badge/gitrepup/month)](https://pepy.tech/project/gitrepup)
+
 # Installation
 <code>pip install gitrepup</code>
 
